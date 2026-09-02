@@ -1,0 +1,65 @@
+Rails Launches Stellar-Based Onchain Vaults for Institutional Crypto Derivatives
+Rails, an institutional crypto derivatives platform, has introduced Institutional-Grade Vaults built on the Stellar network to support high-speed perpetual futures trading with segregated 
+custody and onchain verification 
+Live Bitcoin News
+Live Bitcoin News
++1
+.
+
+Key Features
+Segregated Custody: Each client’s collateral is held in a separate, audited smart contract on Stellar, avoiding the omnibus account model used by many centralized exchanges. This means 
+client funds never appear on Rails’ balance sheet, reducing counterparty and operational risk 
+Live Bitcoin News
+Live Bitcoin News
++1
+.
+
+Onchain Verification: Profit and loss (PnL), fees, and liabilities are recorded every 30 seconds and committed as Merkle roots on the Stellar ledger. Institutions can independently 
+reconcile these records against their own systems 
+Live Bitcoin News
+Live Bitcoin News
++1
+.
+
+Separation of Execution and Custody: Rails operates a centralized matching engine, while client assets remain in onchain vaults. This design addresses past failures like FTX, where clients 
+became unsecured creditors in bankruptcy 
+ct.com
+ct.com
+.
+Why Stellar?
+Rails chose Stellar for:
+
+Fast, predictable settlement (finality in seconds) to support frequent vault updates 
+Gate.com
+Gate.com
+.
+
+Proven financial infrastructure with a decade of work in banking, remittance, and tokenized assets, which builds trust for institutions holding tens of millions in capital 
+ct.com
+ct.com
++1
+.
+
+Low transaction costs and high throughput, ideal for margin calls and collateral movements in volatile derivatives markets 
+coinpulsehq.com
+coinpulsehq.com
+.
+Market Context
+The vaults target crypto perpetuals and are planned to expand to options trading in Q2 2026 
+Live Bitcoin News
+Live Bitcoin News
++1
+.
+
+Rails has processed over $3.4 billion in trading volume and is registered under the Cayman Islands Monetary Authority (CIMA), with ongoing U.S. National Futures Association registration 
+ct.com
+ct.com
+.
+
+The move aligns with the growing institutional adoption of crypto derivatives, which reached an annual volume of about $85.7 trillion in 2025 
+Cointelegraph
+Cointelegraph
+.
+Strategic Impact
+By combining onchain transparency, segregated custody, and Stellar’s settlement speed, Rails aims to make institutional derivatives trading safer, more verifiable, and more accessible to 
+regulated intermediaries. This could set a new standard for custody in the crypto derivatives space.
